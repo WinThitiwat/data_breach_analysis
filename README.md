@@ -2,7 +2,8 @@
 Project main files:
 - data_cleansing.py : perform data cleansing 
 - eda.ipynb : perform data validation and data profiling with some visualization and summary
-- tableau/data_viz.twbx : data visualization 
+- tableau/data_viz.twbx : data visualization where csv file is needed to run.
+- tableau/data_viz.twb : data visualization wit dataset included.
 
 ### Possible Business Question:
 1. Number of records from data breach over the past 20 years
