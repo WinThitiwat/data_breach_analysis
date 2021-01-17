@@ -1,0 +1,340 @@
+entity,records_lost,int_records_lost,year,month,sector,method,data_sensitivity,source_name,interesting_story
+US Customs and Border Protection,"100,000",100000,2019,Jun,government,hacked,2,Washington Post,y
+Click2Gov,"300,000",300000,2018,Dec,financial,hacked,3,Fortune,n
+SingHealth,"1,500,000",1500000,2018,Jul,healthcare,hacked,4,Straits Times,n
+Quest Diagnostics,"11,900,000",11900000,2019,Jun,healthcare,poor security,4,NBC News,n
+Australian National University,"200,000",200000,2019,Jun,academic,hacked,4,Guardian,n
+Canva,"139,000,000",139000000,2019,May,web,hacked,2,ZDNet,n
+First American Financial Corporation,"885,000,000",885000000,2019,May,financial,poor security,4,Krebs on Security,n
+Chtrbox,"49,000,000",49000000,2019,May,media,poor security,1,Techcrunch,y
+WiFi Finder,"2,000,000",2000000,2019,Apr,app,poor security,1,Techcrunch,n
+Toyota,"3,100,000",3100000,2019,Apr,transport,hacked,2,Bleeping Computer,n
+BreedReady,"1,800,000",1800000,1999,Mar,web,poor security,4,The Guardian,y
+V√•rdguiden,"2,700,000",2700000,2019,Feb,healthcare,poor security,5,ComputerSweden,y
+Dubsmash,"162,000,000",162000000,2019,Feb,app,hacked,1,The Register,n
+ShareThis,"41,000,000",41000000,2019,Feb,web,hacked,1,The Register,n
+HauteLook,"28,000,000",28000000,2019,Feb,retail,hacked,1,The Register,n
+Animoto,ALL,0,2019,Feb,app,hacked,7,The Register,n
+EyeEm,"22,000,000",22000000,2019,Feb,web,hacked,1,The Register,n
+8fit,"20,000,000",20000000,2019,Feb,app,hacked,1,The Register,n
+Whitepages,"18,000,000",18000000,2019,Feb,web,hacked,1,The Register,n
+Fotolog,3M,3000000,2019,Feb,web,hacked,1,The Register,n
+Armor Games,"11,000,000",11000000,2019,Feb,gaming,hacked,1,The Register,n
+BookMate,"8,000,000",8000000,2019,Feb,web,hacked,1,The Register,n
+CoffeeMeetsBagel,ALL,0,2019,Feb,web,hacked,1,The Register,n
+Artsy,"1,000,000",1000000,2019,Feb,web,hacked,1,The Register,n
+DataCamp,"700,000",700000,2019,Feb,web,hacked,1,The Register,n
+Ixigo,"18,000,000",18000000,2019,Feb,transport,poor security,1,Techcrunch,n
+YouNow,"40,000,000",40000000,2019,Feb,web,hacked,1,Techcrunch,n
+Houzz,"57,000,000",57000000,2019,Feb,retail,hacked,2,Techcrunch,n
+Ge.tt,"1,800,000",1800000,2019,Feb,web,hacked,1,Techcrunch,n
+Coinmama,"450,000",450000,2019,Feb,financial,hacked,1,Techcrunch,n
+Roll20,"4,000,000",4000000,2019,Feb,gaming,hacked,1,Techcrunch,n
+Stronghold Kingdoms,"5,000,000",5000000,2019,Feb,gaming,hacked,1,Techcrunch,n
+Petflow,ALL,0,2019,Feb,retail,poor security,1,Techcrunch,n
+500px,"14,800,000",14800000,2019,Feb,web,hacked,2,PetaPixel,n
+GovPayNow.com,"14,000,000",14000000,2018,Sep,financial,poor security,2,Krebs on Security,n
+Cathay Pacific Airways,"9,400,000",9400000,2018,Oct,transport,hacked,3,ABC News,n
+Chinese resume leak,"202,000,000",202000000,2018,Dec,web,poor security,2,HackenProof,n
+Blur,"2,400,000",2400000,2019,Jan,tech,oops!,1,ZDNet,n
+Blank Media Games,"7,600,000",7600000,2019,Jan,gaming,hacked,1,ZDNet,n
+WordPress,"76,500,000",76500000,2018,Aug,web,poor security,1,ZDNet,n
+Google+,"52,500,000",52500000,2018,Dec,web,poor security,2,The Verge,n
+Quora,"100,000,000",100000000,2018,Dec,web,hacked,1,NY Times,n
+Marriott Hotels,"383,000,000",383000000,2018,Nov,retail,hacked,3,"NY Times, CNET",n
+NMBS,"1,460,000",1460000,2018,Dec,transport,oops!,2,Flanders Today,y
+Facebook,"50,000,000",50000000,2018,Mar,web,hacked,1,Guardian,y
+Panerabread,"37,000,000",37000000,2018,Apr,retail,poor security,2,"Krebsonsecurity, Medium",n
+Aadhaar,"1,000,000,000",1000000000,2018,Jan,government,oops!,3,Guardian,n
+Dixons Carphone,10M,10000000,2018,Jun,telecoms,hacked,1,Dixons Carphone,n
+MyHeritage,"92,283,889",92283889,2018,Jun,web,hacked,1,Bloomberg,n
+Saks and Lord & Taylor,<5000000,5000000,2018,Apr,retail,hacked,3,NYTimes,n
+Careem,"14,000,000",14000000,2018,Apr,app,hacked,2,Khaleej Times,n
+Texas voter records,"14,800,000",14800000,2018,Aug,web,poor security,2,TechCrunch,n
+British Airways,"380,000",380000,2018,Sep,transport,hacked,4,Guardian,n
+T-Mobile,"2,000,000",2000000,2018,Aug,telecoms,hacked,1,Motherboard,n
+MyFitnessPal,"150,000,000",150000000,2018,Mar,app,hacked,1,Guardian,n
+Health South East,<3000000,3000000,2018,Feb,healthcare,hacked,4,It Governance,n
+Nametests,"120,000,000",120000000,2018,Jun,app,poor security,1,Medium,n
+Ticketmaster,"40,000",40000,2018,Jun,web,hacked,3,BBC News,n
+Firebase,"100,000,000",100000000,2018,Jun,app,poor security,5,Bleeping Computer,n
+Aadhaar,"1,100,000,000",1100000000,2018,Mar,government,poor security,4,ZDNet,n
+Grindr,"3,000,000",3000000,2018,Mar,app,poor security,3,NBC News,n
+Orbitz,10M,10000000,2018,Mar,web,hacked,3,US News,n
+MBM Company,"1,300,000",1300000,2018,Mar,retail,poor security,4,NextWeb,n
+LocalBlox,"48,000,000",48000000,2018,May,web,poor security,2,UpGuard,n
+Twitter,"330,000,000",330000000,2018,May,app,poor security,1,Reuters,n
+ViewFines,"934,000",934000,2018,May,transport,oops!,4,iAfrikan,n
+TicketFly,"27,000,000",27000000,2018,Aug,web,hacked,2,TicketFly,n
+Amazon,"5,000,000",5000000,2018,Nov,retail,oops!,1,Guardian,n
+Amazon,"100,000",100000,2018,Nov,tech,poor security,1,The Guardian,n
+Urban Massage,"309,000",309000,2018,Nov,app,poor security,2,Tech Crunch,n
+Dell ,"100,000",100000,2018,Nov,tech,hacked,1,Dell,n
+High Tail Hall,"411,000",411000,2018,Nov,web,hacked,2,Daily Mail,n
+SKY Brasil,"32,000,000",32000000,2018,Nov,telecoms,poor security,1,Bleeping Computer,n
+Vision Direct,"100,000",100000,2018,Nov,retail,hacked,4,It Pro,n
+Healthcare.gov,"75,000",75000,2018,Oct,healthcare,hacked,4,GizModo,n
+CMS,"93,689",93689,2018,Nov,healthcare,hacked,2,HCA News,n
+Facebook,"29,000,000",29000000,2018,Oct,web,hacked,2,"Business Insider, Facebook",n
+Newegg,"45,000,000",45000000,2018,Sep,retail,hacked,3,Slashdot,n
+Disqus,"17,500,000",17500000,2017,Dec,web,hacked,4,ZD Net,n
+RootsWeb,"300,000",300000,2017,Dec,web,poor security,4,Threat Post,n
+Yahoo,"32,000,000",32000000,2017,Mar,web,hacked,4,CNet,n
+Uber,"57,000,000",57000000,2017,Nov,app,hacked,1,Bloomberg,n
+Wonga,"270,000",270000,2017,Apr,financial,hacked,4,The Guardian,n
+Snapchat,"1,700,000",1700000,2017,Apr,app,hacked,1,BGR,n
+Spambot,"711,000,000",711000000,2017,Aug,web,poor security,4,The Guardian,n
+CEX,"2,000,000",2000000,2017,Aug,retail,oops!,3,The Guardian,n
+Al.type,"31,000,000",31000000,2017,Dec,app,poor security,4,ZDNet,n
+Cellebrite,"3,000,000",3000000,2017,Jan,tech,hacked,2,Motherboard,y
+Waterly,"1,000,000",1000000,2017,Jan,app,poor security,3,Data Breaches,n
+Swedish Transport Agency,"3,000,000",3000000,2017,Jul,government,poor security,5,The Local,y
+Hong Kong Registration & Electoral Office,"3,700,000",3700000,2017,Mar,government,lost device ,2,SCMP,n
+River City Media,"1,370,000,000",1370000000,2017,Mar,web,oops!,2,Guardian,n
+DaFont,"700,000",700000,2017,May,web,hacked,4,ZD Net,n
+Bell,"1,900,000",1900000,2017,May,telecoms,hacked,1,CBC,n
+Zomato,"17,000,000",17000000,2017,May,web,hacked,4,HackRead,n
+Imgur,"1,700,000",1700000,2017,Nov,app,hacked,4,Imgur,n
+TIO Networks,"1,600,000",1600000,2017,Dec,financial,hacked,4,Bleeping Computer,n
+Malaysian telcos & MVNOs,"46,200,000",46200000,2017,Oct,telecoms,hacked,4,LowYat,n
+Malaysian medical practitioners,"81,309",81309,2017,Oct,healthcare,hacked,4,LowYat,n
+Instagram,"6,000,000",6000000,2017,Sep,web,hacked,1,The Verge,n
+Viacom,"3,000,000",3000000,2017,Sep,web,hacked,4,The Hacker News,n
+Equifax,"143,000,000",143000000,2017,Sep,financial,hacked,4,UK Gov,y
+SVR Tracking,"540,000",540000,2017,Sep,app,poor security,4,The Hacker News,n
+LinkedIn,"117,000,000",117000000,2016,May,web,hacked,1,CNN,n
+Tumblr,"65,000,000",65000000,2016,May,web,hacked,1,Motherboard,n
+Yahoo,"500,000,000",500000000,2016,Sep,web,hacked,2,Business Insider,n
+Mossack Fonseca,"11,500,000",11500000,2016,Apr,legal,hacked,5,PanamaPapers,y
+Philippines‚Äô Commission on Elections,"55,000,000",55000000,2016,Apr,government,hacked,5,Trend Micro,n
+Syrian government,"274,477",274477,2016,Apr,government,hacked,1,Softpedia,n
+Minecraft,"7,000,000",7000000,2016,Apr,gaming,hacked,1,Motherboard,n
+Turkish citizenship database,"49,611,709",49611709,2016,Apr,government,hacked,2,Business Insider,n
+Banner Health,"3,700,000",3700000,2016,Aug,healthcare,hacked,3,Healthcare Informatics,n
+Mail. ru,"25,000,000",25000000,2016,Aug,web,hacked,2,ZD Net,n
+Dropbox,"68,700,000",68700000,2016,Aug,web,hacked,1,The Telegraph,n
+PayAsUGym,"300,000",300000,2016,Dec,web,hacked,1,BBC News,n
+Lynda.com,"9,500,000",9500000,2016,Dec,web,hacked,1,Neowin,n
+Linux Ubuntu forums,"2,000,000",2000000,2016,Jul,web,hacked,1,ZDnet,n
+Wendy's,"1,025",1025,2016,Jul,retail,hacked,3,Forbes,n
+Clinton campaign,"5,000,000",5000000,2016,Jul,government,hacked,2,Reuters,n
+uTorrent ,"35,000",35000,2016,Jun,web,hacked,1,Torrent Freak,n
+World Check,"2,200,000",2200000,2016,Jun,media,poor security,3,The Stack,n
+Mutuelle Generale de la Police,"112,000",112000,2016,Jun,healthcare,inside job,5,BBC News,n
+VK,"100,544,934",100544934,2016,Jun,web,hacked,4,Motherboard,n
+KM.ru & Nival,"1,500,000",1500000,2016,Mar,web,hacked,4,Motherboard,n
+Fling,"40,000,000",40000000,2016,May,web,hacked,4,IBTimes,n
+MySpace,"164,000,000",164000000,2016,May,web,hacked,1,Motherboard,n
+Three,"200,000",200000,2016,Nov,telecoms,hacked,2,Three,n
+Red Cross Blood Service,"550,000",550000,2016,Oct,healthcare,oops!,4,ABC News,n
+Telegram ,"15,000,000",15000000,2016,Aug,app,hacked,1,Venture Beat,n
+Dailymotion,"85,200,000",85200000,2016,Dec,web,hacked,1,ZDNet,n
+Weebly,"43,000,000",43000000,2016,Oct,web,hacked,4,Tech Crunch,n
+Interpark,"10,000,000",10000000,2016,Jul,web,hacked,2,NY times,n
+Quest Diagnostics,"34,000",34000,2016,Dec,healthcare,hacked,4,Newsroom,n
+Friend Finder Network,"412,000,000",412000000,2016,Nov,web,hacked,1,ZDNet,n
+Brazzers,"790,724",790724,2016,Sep,web,hacked,4,Motherboard,n
+ClixSense,"6,600,000",6600000,2016,Sep,web,hacked,5,Digital trends,n
+Carefirst,"1,100,000",1100000,2015,May,healthcare,hacked,1,Carefirst,n
+Twitch.tv,"10,000,000",10000000,2015,Mar,healthcare,hacked,1,Twitch,n
+Premera,"11,000,000",11000000,2015,Mar,healthcare,hacked,5,Computer Weekly,n
+Uber,"50,000",50000,2015,Feb,"tech, app",poor security,1,Uber,n
+Deep Root Analytics,"198,000,000",198000000,2015,Dec,web,poor security,2,"Reuters, UpGuard",n
+Kromtech,"13,000,000",13000000,2015,Dec,web,hacked,1,The Stack,n
+Invest Bank,"40,000",40000,2015,Dec,financial,hacked,4,Daily Dot ,n
+Sanrio,"3,300,000",3300000,2015,Dec,web,poor security,2,CSO Online,n
+VTech,"6,400,000",6400000,2015,Dec,web,hacked,5,The Guardian,n
+Hacking Team,"500,000",500000,2015,Jul,web,hacked,5,The Guardian,y
+AshleyMadison.com,"37,000,000",37000000,2015,Jul,web,hacked,1,Krebs on Security,n
+US Office of Personnel Management (2nd Breach),"21,500,000",21500000,2015,Jul,government,hacked,5,BBC News,n
+US Office of Personnel Management,"4,000,000",4000000,2015,Jun,government,hacked,2,Washington-Post,n
+Australian Immigration Department,"500,000",500000,2015,Mar,government,oops!,4,The Guardian,y
+IRS,"100,000",100000,2015,May,government,hacked,1,CNN,n
+MSpy,"400,000",400000,2015,May,app,hacked,2,Krebs on Security,n
+Adult Friend Finder,"3,900,000",3900000,2015,May,web,hacked,1,Channel 4,n
+Securus Technologies,"70,000,000",70000000,2015,Nov,web,hacked,5,The Intercept,y
+TalkTalk,"157,000",157000,2015,Nov,telecoms,hacked,2,BBC News,n
+Experian / T-mobile,"15,000,000",15000000,2015,Oct,telecoms,hacked,3,Reuters,n
+Slack,"500,000",500000,2015,Mar,app,hacked,1,Tech Crunch,n
+CarPhone Warehouse,"2,400,000",2400000,2015,Aug,telecoms,hacked,5,The Guardian,n
+British Airways,"500,000",500000,2015,Mar,transport,hacked,1,The Guardian,n
+Anthem ,"80,000,000",80000000,2015,Feb,healthcare,hacked,2,NYTimes,y
+Neiman Marcus,"1,100,000",1100000,2014,Jan,retail,hacked,2,NY Times,n
+AOL,"2,400,000",2400000,2014,Apr,web,hacked,1,NBC News,n
+Community Health Systems,"4,500,000",4500000,2014,Aug,healthcare,hacked,2,CNN,y
+Privatization Agency of the Republic of Serbia,"5,190,396",5190396,2014,Dec,government,oops!,2,Poverenik,n
+Sony Pictures,"10,000,000",10000000,2014,Dec,media,hacked,2,Buzzfeed,n
+Indiana University,"146,000",146000,2014,Feb,academic,poor security,2,Indiana University,n
+Ebay,"145,000,000",145000000,2014,May,web,hacked,1,Business Insider,y
+UPS,"4,000,000",4000000,2014,Aug,retail,hacked,3,Time,n
+European Central Bank,"4,000,000",4000000,2014,Jul,financial,hacked,1,City am,n
+JP Morgan Chase,"76,000,000",76000000,2014,Oct,financial,hacked,3,Deal Book,y
+New York Taxis,"52,000",52000,2014,Jun,transport,poor security,1,Medium,y
+HSBC Turkey,"2,700,000",2700000,2014,Nov,financial,hacked,4,Reuters,n
+Japan Airlines,"750,000",750000,2014,Sep,transport,hacked,2,"WSJ, Japan Airlines",n
+Staples,"1,160,000",1160000,2014,Dec,retail,hacked,3,Fortune,n
+Gmail,"5,000,000",5000000,2014,Sep,web,hacked,1,The Next Web,y
+Home Depot,"56,000,000",56000000,2014,Sep,retail,hacked,3,Krebs on Security,y
+Korea Credit Bureau,"20,000,000",20000000,2014,Jan,financial,inside job,5,Security Week,n
+Dominios Pizzas (France),"600,000",600000,2014,Jun,retail,hacked,1,The Guardian,n
+Mozilla,"76,000",76000,2014,Aug,web,poor security,2,The Guardian,n
+Massive American business hack,"160,000,000",160000000,2013,Jul,financial,hacked,5,Technology Review,y
+"Affinity Health Plan, Inc.","344,579",344579,2013,Aug,healthcare,lost device ,4,Proskauer,y
+Citigroup,"150,000",150000,2013,Jul,financial,oops!,2,Softpedia,y
+Tianya,"40,000,000",40000000,2013,Jul,web,hacked,1,"Computer World, Hacker News",n
+Scribd,"500,000",500000,2013,Apr,web,hacked,1,"Naked Security, NBC News",n
+Kissinger Cables,"1,700,000",1700000,2013,Apr,government,inside job,3,Wikileaks,n
+Living Social,"50,000,000",50000000,2013,Apr,web,hacked,1,"Naked Security, New York Times",n
+Yahoo,"1,000,000,000",1000000000,2013,Dec,web,hacked,2,NY Times,n
+SnapChat,"4,700,000",4700000,2013,Jan,"web, tech",hacked,2,BBC News,n
+Central Hudson Gas & Electric,"110,000",110000,2013,Feb,energy,hacked,3,eSecurity Planet,n
+Twitter,"250,000",250000,2013,Feb,web,hacked,1,CNN,n
+"Crescent Health Inc., Walgreens","100,000",100000,2013,Feb,healthcare,lost device ,4,Healthcare IT News,n
+Florida Department of Juvenile Justice,"100,000",100000,2013,Jan,government,lost device ,2,Data Breaches,n
+Advocate Medical Group,"4,000,000",4000000,2013,Aug,healthcare,lost device ,2,Health IT Security,y
+OVH,,0,2013,Jul,web,hacked,2,OVH,n
+Apple,"275,000",275000,2013,Jul,"tech, web",hacked,1,The Guardian,n
+NASDAQ,"500,000",500000,2013,Jul,financial,hacked,1,Reuters,y
+UbiSoft,"58,000,000",58000000,2013,Jul,gaming,hacked,2,BBC News,n
+Ubuntu,"2,000,000",2000000,2013,Jul,"tech, web",hacked,3,Ars Technica,y
+Nintendo,"240,000",240000,2013,Jun,gaming,hacked,2,ZDNet,n
+National Security Agency,"1,500,000",1500000,2013,Jun,government,inside job,5,Business Insider,y
+Facebook,"6,000,000",6000000,2013,Jun,web,oops!,1,Facebook,n
+Evernote,"50,000,000",50000000,2013,Mar,web,hacked,1,"Wired, Digital Trends",n
+Kirkwood Community College,"125,000",125000,2013,Apr,academic,hacked,2,eSecurity Planet,n
+Yahoo Japan,"22,000,000",22000000,2013,May,"tech, web",hacked,1,Reuters,n
+Drupal,"1,000,000",1000000,2013,May,web,hacked,1,Ars Technica,n
+TerraCom & YourTel,"170,000",170000,2013,May,telecoms,oops!,2,"Boing Boing, Wired",y
+Washington State court system,"160,000",160000,2013,May,government,hacked,2,"Reuters, Privacy Rights",n
+MacRumours.com,"860,000",860000,2013,Nov,web,hacked,1,Wired,n
+Court Ventures,"200,000,000",200000000,2013,Oct,financial,inside job,2,"NY Times, Gov Tech",n
+Vodafone,"2,000,000",2000000,2013,Sep,telecoms,inside job,3,Security Week,y
+Adobe,"36,000,000",36000000,2013,Oct,tech,hacked,5,Adobe,y
+"D&B, Altegrity","1,000,000",1000000,2013,Sep,tech,hacked,3,USA Today; Reuters,n
+ssndob.ms,"4,000,000",4000000,2013,Sep,web,hacked,2,Krebs on Security,y
+Target,"70,000,000",70000000,2013,Dec,retail,hacked,3,Huffington Post,y
+China Software Developer Network,"6,000,000",6000000,2012,Mar,web,hacked,1,ZDNet,n
+Global Payments,"7,000,000",7000000,2012,Apr,financial,hacked,3,Washington-Post,n
+South Carolina Government,"6,400,000",6400000,2012,Apr,healthcare,inside job,4,The State,n
+Three Iranian banks,"3,000,000",3000000,2012,Apr,financial,hacked,5,ZD Net,y
+California Department of Child Support Services,"800,000",800000,2012,Apr,government,lost device ,2,Business Insider,n
+Emory Healthcare,"315,000",315000,2012,Apr,healthcare,lost device ,4,Emory,n
+Office of the Texas Attorney General,"6,500,000",6500000,2012,Apr,government,oops!,2,Raw Story,n
+Medicaid,"780,000",780000,2012,Apr,"government, healthcare",hacked,5,Reuters,y
+Dropbox,"68,000,000",68000000,2012,Aug,web,hacked,1,"Tech Republic, Dropbox",n
+Blizzard,"14,000,000",14000000,2012,Aug,gaming,hacked,2,Forbes,n
+New York State Electric & Gas,"1,800,000",1800000,2012,Jan,energy,inside job,2,Data Breaches,n
+Memorial Healthcare System,"102,153",102153,2012,Apr,healthcare,lost device ,2,Modern Healthcare,n
+Zappos,"24,000,000",24000000,2012,Jan,web,hacked,2,Forbes,n
+Formspring,"420,000",420000,2012,Jul,web,hacked,1,CNet,y
+KT Corp.,"8,700,000",8700000,2012,Jul,telecoms,hacked,2,"Korea Times, CNet",n
+Yahoo Voices,"450,000",450000,2012,Jul,"tech, web",hacked,1,Slashdot,n
+Last.fm,"43,500,000",43500000,2012,Sep,web,hacked,1,ZD Net,n
+"LinkedIn, eHarmony, Last.fm","8,000,000",8000000,2012,Jun,web,hacked,1,Cnet,n
+Gamigo,"8,000,000",8000000,2012,Jul,web,hacked,1,Forbes,n
+Militarysingles.com,"163,792",163792,2012,Mar,"web, military",hacked,1,PC World,n
+Apple,"12,367,232",12367232,2012,Mar,"tech, retail",oops!,2,CNET,y
+Greek government,"9,000,000",9000000,2012,Nov,government,hacked,2,Wired,n
+South Carolina State Dept. of Revenue,"3,600,000",3600000,2012,Oct,government,hacked,1,Information Week,n
+New York City Health & Hospitals Corp.,"1,700,000",1700000,2011,Feb,healthcare,lost device ,4,InfoRisk,n
+"Seacoast Radiology, PA","231,400",231400,2011,Jan,healthcare,hacked,2,Fosters,y
+"South Shore Hospital, Massachusetts","800,000",800000,2011,Sep,healthcare,lost device ,5,Boston Globe,n
+Betfair,"2,300,000",2300000,2011,May,web,hacked,3,FT,n
+"Ankle & foot Center of Tampa Bay, Inc.","156,000",156000,2011,Jan,healthcare,hacked,4,Phi Privacy,n
+Yale University,"43,000",43000,2011,Aug,academic,oops!,2,NBC News,n
+Morgan Stanley Smith Barney,"34,000",34000,2011,Jul,financial,lost device ,3,ABC News,y
+State of Texas,"3,500,000",3500000,2011,Apr,government,oops!,2,Dallas News,n
+Epsilon,"3,000,000",3000000,2011,Apr,web,hacked,1,Guardian,n
+Sony PSN,"77,000,000",77000000,2011,Apr,gaming,hacked,1,Mashable,y
+US Law Enforcement,"123,461",123461,2011,Aug,government,hacked,3,PC World,n
+University of Wisconsin - Milwaukee,"73,000",73000,2011,Aug,academic,hacked,2,ZDNet,n
+Stratfor,"935,000",935000,2011,Dec,military,hacked,3,NYTimes,n
+Chinese gaming sites,"10,000,000",10000000,2011,Dec,web,hacked,1,eHacking News,n
+Southern California Medical-Legal Consultants,"300,000",300000,2011,Jun,healthcare,hacked,2,Data Breaches,n
+Writerspace.com,"62,000",62000,2011,Jun,web,hacked,1,PC Mag,n
+Bethesda Game Studios,"200,000",200000,2011,Jun,gaming,hacked,1,PC World,n
+Sega,"1,290,755",1290755,2011,Jun,gaming,hacked,2,ZDNet,n
+Citigroup,"360,083",360083,2011,Jun,financial,hacked,3,PC World,n
+Sony Pictures,"1,000,000",1000000,2011,Jun,web,hacked,1,Mashable,y
+Accendo Insurance Co. ,"175,350",175350,2011,Jun,healthcare,poor security,2,Data Breaches,n
+Washington Post,"1,270,000",1270000,2011,Jul,media,hacked,2,PC Mag,n
+Health Net - IBM,"1,900,000",1900000,2011,Mar,healthcare,lost device ,3,IEEE Spectrum,n
+Eisenhower Medical Center,"514,330",514330,2011,Apr,healthcare,lost device ,4,Data Breach Info,n
+Spartanburg Regional Healthcare System,"400,000",400000,2011,May,healthcare,lost device ,4,GoUpstate,n
+NHS,"8,600,000",8600000,2011,Jun,healthcare,lost device ,4,Alphr,y
+San Francisco Public Utilities Commission ,"180,000",180000,2011,Jun,government,hacked,1,CNET,n
+Sony Online Entertainment,"24,600,000",24600000,2011,May,gaming,hacked,3,Computer Weekly,n
+Honda Canada,"283,000",283000,2011,May,retail,hacked,2,Guelph Mercury,y
+Massachusetts Government,"210,000",210000,2011,May,government,hacked,5,NBC News,y
+Oregon Department of Motor Vehicles,"1,000,000",1000000,2011,May,government,hacked,2,Data Breaches,n
+Steam,"35,000,000",35000000,2011,Nov,web,hacked,3,SC Mag,n
+Restaurant Depot,"200,000",200000,2011,Nov,retail,hacked,3,NBC News,n
+Nexon Korea Corp,"13,200,000",13200000,2011,Nov,web,hacked,2,Reuters,n
+Nemours Foundation,"1,055,489",1055489,2011,Oct,healthcare,lost device ,4,Law360,n
+Sutter Medical Foundation,"4,243,434",4243434,2011,Nov,healthcare,lost device ,2,Trend Micro,n
+Tricare,"4,901,432",4901432,2011,Sep,"military, healthcare",lost device ,4,Reuters,n
+"AvMed, Inc.","1,220,000",1220000,2010,Feb,healthcare,lost device ,2,Hack Notice,n
+Blue Cross Blue Shield of Tennessee,"1,023,209",1023209,2010,May,healthcare,lost device ,2,Data Breaches,y
+US Military,"260,000",260000,2010,Nov,military,inside job,5,Guardian,y
+Gawker.com,"1,500,000",1500000,2010,Dec,web,hacked,2,Guardian,n
+"Triple-S Salud, Inc.","398,000",398000,2010,Nov,healthcare,lost device ,4,Data Breaches,n
+Ohio State University,"760,000",760000,2010,Dec,academic,hacked,2,The Lantern,n
+"Emergency Healthcare Physicians, Ltd.","180,111",180111,2010,May,healthcare,lost device ,4,Healthcare Info Security,n
+Colorado government,"105,470",105470,2010,Jul,healthcare,lost device ,2,Data Breaches,n
+AT&T,"114,000",114000,2010,Jun,telecoms,hacked,1,Guardian,y
+Lincoln Medical & Mental Health Center,"130,495",130495,2010,Jun,healthcare,lost device ,4,Alert Boot,n
+Educational Credit Management Corp,"3,300,000",3300000,2010,Mar,financial,lost device ,2,Wall Street Journal,y
+Embassy Cables,"251,000",251000,2010,Nov,government,inside job,5,"Guardian, Wikileaks",n
+US Federal Reserve Bank of Cleveland,"400,000",400000,2010,Nov,financial,hacked,3,Bank Info Security,n
+Classified Iraq War documents,"392,000",392000,2010,Oct,government,inside job,2,Forbes,n
+Puerto Rico Department of Health,"515,000",515000,2010,Sep,healthcare,hacked,4,Gartner,n
+Heartland,"130,000,000",130000000,2009,Jan,financial,hacked,3,Dark Reading,y
+US National Guard,"131,000",131000,2009,Dec,military,lost device ,2,CNN,y
+RockYou!,"32,000,000",32000000,2009,Dec,"web, gaming",hacked,1,Tech Crunch,y
+CheckFree Corporation,"5,000,000",5000000,2009,Jan,financial,hacked,1,Computer World,y
+Network Solutions,"573,000",573000,2009,Jul,web,hacked,3,Washington Post,n
+Virginia Prescription Monitoring Program,"531,400",531400,2009,May,healthcare,hacked,2,Digital Health,y
+Virginia Dept. Of Health,"8,257,378",8257378,2009,May,"government, healthcare",hacked,4,Washington Post,y
+University of California Berkeley,"160,000",160000,2009,May,academic,hacked,3,Cnet,n
+Health Net ,"1,500,000",1500000,2009,Nov,healthcare,lost device ,4,Computer World,y
+US Military,"76,000,000",76000000,2009,Oct,military,lost device ,2,Wired,y
+Compass Bank,"1,000,000",1000000,2008,Mar,financial,inside job,3,Computer Weekly,y
+Hannaford Brothers Supermarket Chain,"4,200,000",4200000,2008,Mar,retail,hacked,3,NetworkWorld,n
+University of Miami,"2,100,000",2100000,2008,Apr,academic,lost device ,3,Identity Theft,n
+BNY Mellon Shareowner Services,"12,500,000",12500000,2008,May,financial,lost device ,1,Reuters,n
+Countrywide Financial Corp,"2,500,000",2500000,2008,Aug,financial,inside job,2,LATimes,n
+UK Home Office,"84,000",84000,2008,Aug,government,lost device ,2,Wikipedia,n
+Countrywide Financial Corp,"2,600,000",2600000,2008,Aug,financial,inside job,3,NetworkWorld,n
+RBS Worldpay,"1,500,000",1500000,2008,Dec,financial,hacked,5,The Register,n
+Auction.co.kr,"18,000,000",18000000,2008,Feb,web,hacked,3,Dark Reading,n
+GS Caltex,"11,100,000",11100000,2008,Sep,energy,inside job,2,The Dong-a Ilbo,n
+AT&T,"113,000",113000,2008,Jun,telecoms,lost device ,1,NetworkWorld,y
+Stanford University,"72,000",72000,2008,Jun,academic,lost device ,2,SFGate,n
+University of Utah Hospitals & Clinics,"2,200,000",2200000,2008,Jun,academic,lost device ,4,Salt Lake Tribune,y
+Chile Ministry Of Education,"6,000,000",6000000,2008,May,government,hacked,1,BBC News,n
+Jefferson County,"1,600,000",1600000,2008,Nov,government,oops!,2,NBC29,y
+Texas Lottery,"89,000",89000,2008,Nov,government,inside job,2,Houston Chronicle,n
+Starbucks,"97,000",97000,2008,Nov,retail,lost device ,2,Info Watch,y
+UK Ministry of Defence,"1,700,000",1700000,2008,Oct,government,lost device ,5,BBC News,y
+"T-Mobile, Deutsche Telecom","17,000,000",17000000,2008,Oct,telecoms,lost device ,1,FT,n
+Norwegian Tax Authorities,"3,950,000",3950000,2008,Sep,government,oops!,2,Info Watch,y
+Service Personnel and Veterans Agency (UK),"50,500",50500,2008,Sep,government,lost device ,2,BBC News,n
+Monster.com,"1,600,000",1600000,2007,Aug,web,hacked,2,BBC News,y
+Driving Standards Agency,"3,000,000",3000000,2007,Dec,government,lost device ,2,BBC News,n
+Fidelity National Information Services,"8,500,000",8500000,2007,Jul,financial,inside job,3,PCWorld,n
+City and Hackney Teaching Primary Care Trust,"160,000",160000,2007,Dec,government,lost device ,2,Computer Weekly,n
+Gap Inc,"800,000",800000,2007,Sep,retail,lost device ,2,PC World,n
+Dai Nippon Printing,"8,637,405",8637405,2007,Mar,retail,inside job,1,Compare Business Products,n
+TK / TJ Maxx,"94,000,000",94000000,2007,Mar,retail,hacked,3,ZD Net,n
+JP Morgan Chase,"2,600,000",2600000,2007,May,financial,lost device ,3,PC World,y
+UK Revenue & Customs,"25,000,000",25000000,2007,Nov,government,lost device ,1,BBC News,n
+TD Ameritrade,"6,300,000",6300000,2007,Sep,financial,hacked,1,"Wired, CBNC",n
+AOL,"20,000,000",20000000,2006,Aug,web,oops!,1,Tech Crunch,y
+US Dept of Vet Affairs,"26,500,000",26500000,2006,Jul,"government, military",lost device ,2,"GCN, US Gov",n
+Automatic Data Processing,"125,000",125000,2006,Jul,financial,poor security,2,ABC News,n
+KDDI,"4,000,000",4000000,2006,Jun,telecoms,hacked,1,Computer World,y
+Hewlett Packard,"200,000",200000,2006,Mar,"tech, retail",lost device ,2,Computer Weekly,y
+Ameritrade Inc.,"200,000",200000,2005,Apr,financial,lost device ,2,NBC,n
+Citigroup,"3,900,000",3900000,2005,Jun,financial,lost device ,3,NY Times,y
+Cardsystems Solutions Inc. ,"40,000,000",40000000,2005,Jun,financial,hacked,3,Wired,y
+AOL,"92,000,000",92000000,2004,Jun,web,inside job,1,CNN,n
