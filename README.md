@@ -1,6 +1,10 @@
 # data_breach_analysis
+Project main files:
+- data_cleansing.py : perform data cleansing 
+- eda.ipynb : perform data validation and data profiling with some visualization and summary
+- tableau/data_viz.twbx : data visualization 
 
-Possible Business Question:
+### Possible Business Question:
 1. Number of records from data breach over the past 20 years
 2. Top 5 sectors where data breach happens the most
 3. Each of the top 5 sectors where data breach happened, what type of method on data breach happen the most
